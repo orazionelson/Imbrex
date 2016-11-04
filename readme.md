@@ -1,7 +1,7 @@
 <h1>Imbrex 0.0.1 alfa</h1>
 <blockquote>&laquoBent or curved tile like a half-cylinder used for gutters or for covering the junction of adjacent concave or flat tiles with upstands.&raquo</blockquote> 
 
-Imbrex is a tool to manage collections of linked textes and images. It came from [TILE](http://mith.umd.edu/tile/), <b>Text-Image Linking Environment</b>, but Imbrex has a new design, web oriented and centered on usability, user experience.
+Imbrex is a tool to manage collections of linked textes and images. It comesfrom [TILE](http://mith.umd.edu/tile/), <b>Text-Image Linking Environment</b>, but Imbrex has a new design, web oriented and centered on usability, user experience.
 
 <h2>Install</h2>
 Imbrex is built as a module of [No-CMS](http://getnocms.com/), so you have to install it before using Imbrex.
