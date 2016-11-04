@@ -75,7 +75,7 @@ If you want to help me don't exitate to write me for: bugs, feature request, off
 
 alfredo.cosco@gmail.com
 
-twitter: @orazionelson
+twitter: @orazio_nelson
  
 <h2>License</h2>
 Imbrex is released under MIT Licence.
