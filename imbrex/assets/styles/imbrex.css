@@ -1,0 +1,17 @@
+a.delete-anchor
+{
+	color: white !important;
+	text-transform:uppercase;	
+}
+
+div.subpage-field-radio input {
+    opacity: 1;
+    filter: alpha(opacity=1);
+    -moz-opacity: 1;
+    text-align: center;
+	text-align: center;
+    display: inline-block;
+    background: none;
+    width: 14px;
+    height: 14px;
+}

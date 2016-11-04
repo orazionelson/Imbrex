@@ -1,0 +1,10 @@
+{
+    "dependencies"    : ["nelson.imbrex"],
+    "name"            : "nelson.imbrex_data",
+    "description"     : "A dummy package to fill in the Imbrex tables with samples.",
+    "version"         : "0.0.1",
+    "activate"        : "info/activate",
+    "deactivate"      : "info/deactivate",
+    "upgrade"         : "info/upgrade",
+    "public"          : false
+}

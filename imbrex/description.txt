@@ -1,0 +1,10 @@
+{
+    "dependencies"    : [],
+    "name"            : "nelson.imbrex",
+    "description"     : "A text/images linking module",
+    "version"         : "0.0.1",
+    "activate"        : "info/activate",
+    "deactivate"      : "info/deactivate",
+    "upgrade"         : "info/upgrade",
+    "public"          : false
+}
